@@ -11,4 +11,10 @@ var artist = '';
 var ArtistA = (artist || {});
 // or create an empty object if artist doesn't have a value.
 
+valueA = 0;
+valueB = 1;
+ValueC = 2;
 
+if (valueA || valueB || valuesC) {
+  // do something here
+}
